@@ -30,7 +30,7 @@ cd QtTimeApp
 ```
 Open the project in Qt Creator.
 
-Ensure the GetTime.exe file is available at D:/Qt/UpdateTime/Ccode/ or update the path in MainWindow::GetTime() accordingly.
+Ensure the GetTime.exe file is available at UpdateTime/Ccode/ or update the path in MainWindow::GetTime() accordingly.
 
 Build and run the project.
 
